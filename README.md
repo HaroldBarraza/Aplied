@@ -6,9 +6,8 @@ Showing integration Visual Studio Code, Python, and GitHub.
 
 My goal with this software was to test that everything is configured correctly: Git, Visual Studio Code, GitHub.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+Hello world(http://youtube.link.goes.here)
 
 # Development Environment
 
